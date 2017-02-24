@@ -46,10 +46,6 @@ body {
     font-size: 18px;
 }
 
-.main-content input[type="text"] ::-webkit-input-placeholder { 
-  margin-left: 10px;
-}
-
 .main-content > div {
     display: inline-block;
     width: 50%;
@@ -63,10 +59,13 @@ body {
 .main-content > div .icon{
     line-height: 50px;
     float: left;
+    margin-left: 20%;
 }
 
 .main-content > div span{
     line-height: 50px;
+    float: left;
+    margin-left: 15%;
 }
 
 .radio-1{
