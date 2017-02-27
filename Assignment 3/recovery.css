@@ -1,0 +1,87 @@
+.wrapper {
+    height: 100%;
+}
+
+.navbar {
+    width: 100%;
+    background-color: #17a2d4;
+    line-height: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.title {
+    float: left;
+    font-family: 'Lato';
+    color: #f4f4f4;
+    font-size: 30px;
+}
+
+.navbar div {
+    clear: both;
+}
+
+.navbar button {
+    float: right;
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 5.76px 0.24px rgba(0, 0, 0, 0.24);
+    width: 140px;
+    line-height: 50px;
+    font-family: 'Lato';
+    color: #000000;
+    font-size: 24px;
+    border: none;
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+.content {
+    width: 500px;
+    position: relative;
+    background-color: white;
+    top: 17%;
+    margin: auto;
+    padding: 22px 25px;
+}
+
+.start{
+    font-family: 'Lato';
+    color: #000000;
+    font-size: 24px;
+    margin-bottom: 25px;
+
+}
+
+.content input {
+    border-radius: 3px;
+    border: 2px solid #e8e8e8;
+    background-color: #f6f6f6;
+    width: 448px;
+    padding-left: 20px;
+    line-height: 58px;
+    font-size: 18px;
+    color: #969696;
+    font-family: 'Lato';
+}
+
+.para {
+    font-size: 18px;
+    color: #969696;
+    font-family: 'Lato';
+    margin-bottom: 26px;
+
+}
+
+.content button {
+    border-radius: 3px;
+    background-color: #17a2d4;
+    width: 150px;
+    border: none;
+    font-family: 'Lato';
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 50px
+}
